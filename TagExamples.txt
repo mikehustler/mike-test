@@ -1,0 +1,30 @@
+I use tag classes like this:
+
+For the issue type I have:
+
+type:bug
+type:feature
+type:invalid
+For issue priorities I use:
+
+prio:low
+prio:normal
+prio:high
+And for an issue's states I use:
+
+status:confirmed
+status:deferred
+status:fix-committed
+status:in-progress
+status:incomplete
+status:rejected
+status:resolved
+For additionaly informational tags I prefix them with info like this:
+
+info:feedback-needed
+You could also introduce version tags like this:
+
+ver:1.x
+ver:1.1
+etc.
+Maybe this gives you some Idea...
