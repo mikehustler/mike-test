@@ -1,3 +1,4 @@
 contents of file c
 need to resolve before closing.
 more changes
+ore changes
